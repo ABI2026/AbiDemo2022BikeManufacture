@@ -1,0 +1,3 @@
+﻿  Bike.cpp
+C:\Users\momof\source\repos\InformatikLK\Abitur2022Demo-01\Bike.cpp(50,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Abitur2022Demo-01.vcxproj -> C:\Users\momof\source\repos\InformatikLK\x64\Debug\Abitur2022Demo-01.exe

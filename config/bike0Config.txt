@@ -1,0 +1,16 @@
+f0,Frame,1114,1000.50,Manu;Manu A,120cm
+s0,Back-Wheel-Gears,200,190,Shimano;Shimano BWG,26cm
+s1,Back-Wheel-Switch,80,85,Shimano;Shimano BGW-S,34cm
+s2,Padel-Shift-Gears,160,45,Shimano;Shimano PSG,34cm 
+s3,GearShift-Lines,29,30,Shimano;Shimano GSL,143.3cm
+s4,GearShift-Switches,120,210,Shimano;Shimano GSS,13cm
+i0,Pedals,140,87.3,Cube;Cube PD-Neo,30.4cm
+i1,Shok-Absorber-Fork,640,450,Cube;Cube SAF,73.4cm
+i2,BackWheel,345,130,Shimano;Shimano GTX-B,73.66cm
+i3,FrontWheel,245,130,Shimano;Shimano GTX-F,73.66cm
+i4,GearShift-Chain,300,21.99,Shimano;Shimano CNHG9,288.34cm
+i5,BackWheel-Disc-Brake,145,120,Avid;Avid BB7 MTB,20.3cm
+i6,FrontWheel-Disc-Brake,145,120,Avid;Avid BB7 MTB,20.3cm
+i7,Disc-Brake-Lines,29,24,Avid;Avid DBL BB7 MTB,143.3cm
+i8,Disc-Brake-Controllers,230,78,Avid;Avid DBC BB7 MTB,24.5cm
+i9,Saddle,230,120,Cube;Cube S-Neo,50.45cm
