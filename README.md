@@ -1,2 +1,2 @@
 # AbiDemo2022BikeManufacture
-Abitur demonstration exam code
+Code will be available on 24.01.2025 after 13:00 PM
