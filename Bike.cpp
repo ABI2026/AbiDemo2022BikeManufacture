@@ -14,6 +14,7 @@ Bike::Bike::Bike(string fileName) {
 	bool correctConfigFormat = this->checkConfigFormat();
 	if (!correctConfigFormat) {
 		std::cerr << "[Error]: Configurationfile does not have to correct format. Please reformat and try again";
+	} else {
 		this->autoAssamble();
 	}
 }
