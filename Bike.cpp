@@ -12,8 +12,10 @@ Bike::Bike::Bike(string fileName) {
 	bool configLoaded = this->readConfigFromFile();
 	configLoaded ? void() : std::_Xinvalid_argument("Could not load config. Invalid File Name");
 	bool correctConfigFormat = this->checkConfigFormat();
-	if (!correctConfigFormat) std::cerr << "[Error]: Configurationfile does not have to correct format. Please reformat and try again";
-	(correctConfigFormat) ? this->autoAssamble() : void();
+	if (!correctConfigFormat) {
+		std::cerr << "[Error]: Configurationfile does not have to correct format. Please reformat and try again";
+		this->autoAssamble();
+	}
 }
 
 Bike::Bike::~Bike() = default;
